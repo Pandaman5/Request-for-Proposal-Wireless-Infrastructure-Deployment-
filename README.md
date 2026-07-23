@@ -32,7 +32,6 @@ The vendor should create an initial site survey report. The vendor should provid
 ## Timeline and Pricing 
 The project should be able to follow this timeline:
 |           Milestone             |         Date         |
-|---------------------------------|----------------------|
 |         RFP Issue Date          |   August 3th, 2026   |
 |---------------------------------|----------------------|
 |    Vendor Question Deadline     |  August 10th, 2026   |
