@@ -22,11 +22,37 @@ The project scope will include the following:
 
 ## Technical Requirements 
 ### Mandatory Requirements:
-Access points across the building that grants access anywhere in the building with a signal range of -30 to -50 dBm. Weaker signals are acceptable in the gymnasium and student lunchroom, but they can't go lower than -70 bBm. We require Wi-Fi 6 or newer technology to be implemented on our network. The entire network needs to be able to support 500 users concurrently. Each user should get a minimum of 100 Mbps downloading and uploading speeds. The new cabling to be installed has to be Cat 6a or higher quality. Monitoring software/devices will have to be user friendly. The monitoring system should be able to read all network traffic, along with being able to tell where the traffic is coming from geographically.
+Access points across the building that grants access anywhere in the building with a signal range of -30 to -50 dBm. Weaker signals are acceptable in the gymnasium and student lunchroom, but they can't go lower than -70 bBm. We require Wi-Fi 6 or newer technology to be implemented on our network. The entire network needs to be able to support 500 users concurrently. Each user should get a minimum of 100 Mbps downloading and uploading speeds. The new cabling to be installed has to be Cat 6a or higher quality. Monitoring software/devices will have to be user friendly. The monitoring system should be able to read all network traffic, along with being able to tell where the traffic is coming from geographically. WPA3-Enterprise Wi-Fi security needs to be implemented for modern security. Basic VLAN integration is needed as to not leave VLAN's unconfigured. IT support should be available in less than 12 hours.
+### Preferred Requirements:
+The Wi-Fi network should be able to support users up to 1000 concurrent users, with no less than 200 Mbps download and upload speeds. An IT professional should always be available to contact for network support. And IT personel should be able to come to the school in less than 3 hours. 
 
 ## Deliverables
+The vendor should create an initial site survey report. The vendor should provide a wireless network design with a full heatmap of the school. Access points should be purchased and installed by the vendor, along with any other configurations needed. Cat6a or other agreed on cabling should be installed into the building. Once the Wi-Fi network is inplemented, it should be tested to see if it reaches benchmarks mentioned in the "Technical Requirements" portion of this document. Monitoring software/devices should be implemented into the network. The vendor should train the designated staff on using the monitoring solution. By the end of the training, the staff should be able to view network traffic, investigate traffic, find maliciouse traffic, and locate the source of any traffic. WPA3-Enterprise Wi-Fi security should be implemented across the entire wireless network.
 
 ## Timeline and Pricing 
+The project should be able to follow this timeline:
+|           Milestone             |         Date         |
+|---------------------------------|----------------------|
+|         RFP Issue Date          |   August 3th, 2026   |
+|---------------------------------|----------------------|
+|    Vendor Question Deadline     |  August 10th, 2026   |
+|---------------------------------|----------------------|
+|  Proposal Submission Deadline   |  August 17th, 2026   |
+|---------------------------------|----------------------|
+|     Vendor Selection Date       |  August 20th, 2026   |
+|---------------------------------|----------------------|
+|        Project Start Date       |  August 24th, 2026   |
+|---------------------------------|----------------------|
+|         Testing Period          | September 14th, 2026 |
+|---------------------------------|----------------------|
+| Final Implementation/Completion | September 18th, 2026 |
+
+The cost breakdown would look something like this:
+|          Item          | Unit Cost  | Number of Units | Total Cost |
+|------------------------|------------|-----------------|------------|
+| Wireless Access Points |  $180.00   |       x25       |   $4,500   |
+|------------------------|------------|-----------------|------------|
+|      Cat6a Cable       | $1.18 x ft | x
 
 ## Evaluation Criteria 
 
