@@ -21,7 +21,7 @@ The project scope will include the following:
 - Ongoing Maintenance
 
 ## Technical Requirements 
-# Mandatory Requirements:
+### Mandatory Requirements:
 Access points across the building that grants access anywhere in the building with a signal range of -30 to -50 dBm. Weaker signals are acceptable in the gymnasium and student lunchroom, but they can't go lower than -70 bBm. We require Wi-Fi 6 or newer technology to be implemented on our network. The entire network needs to be able to support 500 users concurrently. Each user should get a minimum of 100 Mbps downloading and uploading speeds. The new cabling to be installed has to be Cat 6a or higher quality. Monitoring software/devices will have to be user friendly. The monitoring system should be able to read all network traffic, along with being able to tell where the traffic is coming from geographically.
 
 ## Deliverables
