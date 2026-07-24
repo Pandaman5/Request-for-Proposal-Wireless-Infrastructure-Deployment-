@@ -42,6 +42,7 @@ The project should be able to follow this timeline:
 
 The cost breakdown would look something like this:
 |          Item          | Unit Cost  | Number of Units | Total Cost |
+|------------------------|------------|-----------------|------------|
 | Wireless Access Points |  $180.00   |       x25       |   $4,500   |
 |      Cat6a Cable       | $1.18 x ft |     x15840      | $18,691.2  |
 |  Monitoring Solution   |     ?      |        ?        |   $4,000   |
