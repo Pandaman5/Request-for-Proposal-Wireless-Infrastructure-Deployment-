@@ -32,6 +32,7 @@ The vendor should create an initial site survey report. The vendor should provid
 ## Timeline and Pricing 
 The project should be able to follow this timeline:
 |           Milestone             |         Date         |
+|---------------------------------|----------------------|
 |         RFP Issue Date          |   August 3th, 2026   |
 |    Vendor Question Deadline     |  August 10th, 2026   |
 |  Proposal Submission Deadline   |  August 17th, 2026   |
@@ -52,9 +53,13 @@ The cost breakdown would look something like this:
 ## Evaluation Criteria 
 The project will be evaluated with these criteria:
 |      Category       | Weight |
-| Technical solution  |
-|      Security       |
-| Implementation Plan |
-|
+|---------------------|--------|
+| Technical solution  |  45%   |
+|      Security       |  25%   |
+| Implementation Plan |  15%   |
+|  Vendor Experience  |   5%   |
+|       Pricing       |  10%   |
+|        Total        |  100%  |
 
 ## Submission and Terms 
+Proposals should be submitted in one pdf file. The submission should include the vendors email, and phone number. We will contact each company that entered a submission on August 20th as to if we will move forward with their proposal. If you submit your proposal after the vendor submission deadline (Check: Timeline and Pricing), then we will evaluate the proposal with a -20% score.
