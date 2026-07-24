@@ -33,26 +33,27 @@ The vendor should create an initial site survey report. The vendor should provid
 The project should be able to follow this timeline:
 |           Milestone             |         Date         |
 |         RFP Issue Date          |   August 3th, 2026   |
-|---------------------------------|----------------------|
 |    Vendor Question Deadline     |  August 10th, 2026   |
-|---------------------------------|----------------------|
 |  Proposal Submission Deadline   |  August 17th, 2026   |
-|---------------------------------|----------------------|
 |     Vendor Selection Date       |  August 20th, 2026   |
-|---------------------------------|----------------------|
 |        Project Start Date       |  August 24th, 2026   |
-|---------------------------------|----------------------|
 |         Testing Period          | September 14th, 2026 |
-|---------------------------------|----------------------|
 | Final Implementation/Completion | September 18th, 2026 |
 
 The cost breakdown would look something like this:
 |          Item          | Unit Cost  | Number of Units | Total Cost |
-|------------------------|------------|-----------------|------------|
 | Wireless Access Points |  $180.00   |       x25       |   $4,500   |
-|------------------------|------------|-----------------|------------|
-|      Cat6a Cable       | $1.18 x ft | x
+|      Cat6a Cable       | $1.18 x ft |     x15840      | $18,691.2  |
+|  Monitoring Solution   |     ?      |        ?        |   $4,000   |
+|    Vendor Services     |     ?      |        ?        |  $250,120  |
+|   Ongoing IT Support   |     ?      |        ?        |   $15,000  |
 
 ## Evaluation Criteria 
+The project will be evaluated with these criteria:
+|      Category       | Weight |
+| Technical solution  |
+|      Security       |
+| Implementation Plan |
+|
 
 ## Submission and Terms 
